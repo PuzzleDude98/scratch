@@ -1,11 +1,11 @@
 <html>
 <title>
 <head>
-Scratch Projects"
+Scratch Projects
 </head>
 </title>
-<p1>
+<p3>
 Scratch Projects
-</p1>
+</p3>
 <br>
  <button onclick="window.location.href = 'dinosaur';">Dinosaur Drop</button>
